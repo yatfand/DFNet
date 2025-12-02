@@ -15,7 +15,7 @@ A novel dual-stream encoder-decoder network that integrates RGB images and depth
 - tqdm
 - thop
 - scikit-learn
-- 
+
 ### Datasets
 [USOD](https://pan.baidu.com/s/1afb062AoGw53ShG2ezbJxw?pwd=rhhb) (code:rhhb)
 
